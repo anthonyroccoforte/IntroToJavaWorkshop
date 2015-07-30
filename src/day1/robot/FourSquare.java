@@ -10,7 +10,7 @@ public class FourSquare {
 	Robot grey = new Robot();
 
 	void go() {
-		for (int i = 0; i < array.length; i++) {
+		for (int i = 0; i < 24; i++) {
 			
 		}
 		// 3. Make the robot move as fast as possible
