@@ -11,9 +11,9 @@ Robot duck = new Robot();
 		drawTriangle(100); // 3. delete this line (used only for testing)
 
 		// 6. Make the robot go as fast as possible
-
+		duck.setSpeed(10);
 		// 4. make a variable to hold the length of the triangle and set it to 50
-
+		
 		// 7. Do the following (up to step 10) 60 times
 
 			// 9. Change the color of the pen to a random color
